@@ -1,3 +1,5 @@
+/*-------- Carosel --------*/
+
 .carousel-hight {
     min-height: 60vh;
 }
@@ -13,6 +15,8 @@
 .margin-class {
     margin-left: 15%;
 }
+
+/*-------- Button -------- */
 
 .started-btn {
     margin-left: 35%;
@@ -30,6 +34,8 @@
     width: 285px !important;
     margin-left: -11px;
 }
+
+/* --- For responsive------- */
 
 /*Mobile view*/
 @media only screen and (max-width: 688px) {
